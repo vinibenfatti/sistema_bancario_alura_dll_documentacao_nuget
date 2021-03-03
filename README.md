@@ -21,15 +21,15 @@ Conceitos e aprendizagens abordados neste projeto:
 
 -Os comentários de documentação ///;
 
--O elemento de documentação <summary/>;
+-O elemento de documentação <summary/;
 
--O elemento <param/>;
+-O elemento <param/;
 
--O elemento <paramref/>;
+-O elemento <paramref/;
 
--O elemento <exception/>;
+-O elemento <exception;
 
--O elemento <see/>.
+-O elemento <see/.
 
 -O que é o NuGet;
 
